@@ -31,13 +31,6 @@ Welcome to the **Food Recommendation System**! This system provides personalized
 
 ---
 
-## 📽️ Demo Video  
-
-🔗 **Check out the working demo here:**  
-[![Video Display](https://github.com/AnouskaJ/FoodRecommendationSystem/assets/82711261/e9397460-9bba-47fa-9b40-79cdcb1c9d43)](https://github.com/AnouskaJ/FoodRecommendationSystem/assets/82711261/e9397460-9bba-47fa-9b40-79cdcb1c9d43)
-
----
-
 ## 📦 Installation & Setup  
 
 ### 🔹 Prerequisites  
