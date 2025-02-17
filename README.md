@@ -40,7 +40,7 @@ Ensure you have **Python 3.x** installed on your system.
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/AnouskaJ/FoodRecommendationSystem.git
+git https://github.com/ErrorByNight2004/Food-Recommendation-System.git
 cd FoodRecommendationSystem
 ```
 
